@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:id="@+id/startFragment3"
+        android:icon="@drawable/ic_baseline_home_24">    </item>
+   <item
+       android:id="@+id/middleFragment3"
+        android:title="ReCyc"
+       android:icon="@drawable/ic_baseline_camera_alt_24"
+       ></item>
+    <item
+        android:id="@+id/endFragment3"
+        android:title="Retrofit"
+        android:icon="@drawable/ic_baseline_camera_alt_24"
+        ></item>
+</menu>
